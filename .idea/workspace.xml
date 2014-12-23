@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33f9224f-37da-40d6-a29a-63b85ffbe53c" name="Default" comment="">
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/.dropbox" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/README.rdoc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/Rakefile" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/images/PSLogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/images/checkmark-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/images/circlelogo1.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/images/dartmouth-panorama2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/images/dartmouth-soccer-ad1.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/images/dollar.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/images/house.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/images/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/images/morano.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/images/rails.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/images/small.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/images/solid.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/images/span-tag.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/images/tier_exp_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/images/trust.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/email_settings.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/groups.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/images.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/jquery.tokeninput.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/jquery.validate.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/messages.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/modal.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/pages.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/post_categories.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/posts.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/rails.validations.callbacks.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/tags.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/transactions.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/javascripts/users.js.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/stylesheets/application.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/stylesheets/bootstrap_loader.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/stylesheets/email_settings.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/stylesheets/groups.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/stylesheets/images.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/stylesheets/messages.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/stylesheets/nav.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/stylesheets/pages.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/stylesheets/posts.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/stylesheets/scaffolds.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/stylesheets/tags.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/stylesheets/toggle_switch.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/stylesheets/transactions.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/assets/stylesheets/users.css.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/application_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/assets_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/assignments_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/contacts_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/email_settings_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/exceptions_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/followships_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/group_categories_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/groups_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/images_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/invites_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/memberships_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/messages_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/pages_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/post_categories_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/posts_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/registrations_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/search_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/stripe_connect_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/tags_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/transactions_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/users/omniauth_callbacks_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/controllers/users_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/helpers/application_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/helpers/email_settings_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/helpers/form_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/helpers/group_categories_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/helpers/groups_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/helpers/images_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/helpers/messages_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/helpers/posts_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/helpers/sessions_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/helpers/tags_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/helpers/transactions_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/helpers/users_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/mailers/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/mailers/contact_mailer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/mailers/daily_queue_mailer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/mailers/invite_mailer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/mailers/message_mailer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/mailers/new_post_mailer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/mailers/purchase_completed.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/mailers/signup_mailer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/mailers/sold_post_mailer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/mailers/weekly_queue_mailer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/asset.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/assignment.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/daily_queue.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/email_setting.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/followship.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/group.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/group_category.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/image.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/membership.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/merit/badge_rules.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/merit/point_rules.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/merit/rank_rules.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/message.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/post.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/post_category.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/tag.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/tagging.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/tier.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/transaction.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/user.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/models/weekly_queue.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/uploaders/image_uploader.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/validators/email_format_validator.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/braintree.html.erb.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/contact_mailer/vox.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/daily_queue_mailer/notify.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/devise/confirmations/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/devise/mailer/confirmation_instructions.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/devise/mailer/reset_password_instructions.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/devise/mailer/unlock_instructions.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/devise/passwords/edit.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/devise/passwords/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/devise/registrations/edit.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/devise/registrations/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/devise/sessions/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/devise/shared/_links.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/devise/unlocks/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/email_settings/_form.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/email_settings/edit.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/email_settings/index.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/email_settings/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/email_settings/show.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/exceptions/not_found.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/feed/_feed.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/feed/_group_feed.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/feed/_post_feed.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/feed/_post_feed_item.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/feed/_post_feed_item_premium.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/feed/_post_feed_item_slim.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/feed/_random_group_feed.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/feed/_your_group_feed_item.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/followships/create.js.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/followships/destroy.js.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/followships/follow.js.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/followships/leave.js.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/followships/update.js.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/group_categories/_form.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/group_categories/edit.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/group_categories/index.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/group_categories/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/group_categories/show.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/groups/_form.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/groups/_group.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/groups/_group_list.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/groups/_invite.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/groups/_join_form.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/groups/edit.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/groups/index.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/groups/index.js.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/groups/nearby.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/groups/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/groups/show.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/groups/update.js.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/images/_form.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/images/edit.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/images/index.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/images/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/images/show.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/invite_mailer/invite.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/layouts/_header.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/layouts/application.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/memberships/create.js.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/memberships/destroy.js.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/memberships/join.js.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/message_mailer/send_message.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/messages/_form.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/messages/edit.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/messages/index.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/messages/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/messages/show.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/new_post_mailer/notify.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/pages/_home.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/pages/_join_modal.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/pages/_nav.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/pages/_non_user_credit_modal.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/pages/_posts_list.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/pages/_user_credit_modal.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/pages/_user_you_sure_modal.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/pages/about.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/pages/borrow_rent.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/pages/for_sale.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/pages/index.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/pages/index.js.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/pages/user_credit_modal.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/pages/user_you_sure_modal.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/pages/wanted.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/post_categories/index.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/post_categories/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/post_categories/show.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/posts/_asset_fields.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/posts/_form.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/posts/_modal_credit.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/posts/_modal_image.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/posts/_nonuser_form.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/posts/_post.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/posts/_random_post.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/posts/_skeuocard.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/posts/edit.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/posts/index.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/posts/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/posts/show.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/purchase_completed/notify.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/search/_category_dropdown.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/search/_search_form.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/search/index.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/sessions/_form.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/sessions/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/shared/_banner_group.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/shared/_feed.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/shared/_group_feed.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/shared/_group_feed_item.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/shared/_group_post_feed.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/shared/_group_show_join.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/shared/_post_feed.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/shared/_post_feed_item_premium.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/shared/_post_feed_item_slim.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/shared/_simple_follow.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/shared/_simple_join.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/shared/_your_group_feed.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/signup_mailer/new_subscriber.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/sold_post_mailer/notify.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/tags/_follow_form.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/tags/_form.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/tags/_popular_tags.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/tags/_tag.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/tags/_your_tags.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/tags/edit.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/tags/index.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/tags/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/tags/search.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/tags/show.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/transactions/_form.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/transactions/_new_modal.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/transactions/edit.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/transactions/index.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/transactions/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/transactions/new_modal.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/transactions/show.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/users/_badge.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/users/_edit_email_settings.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/users/_form.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/users/_new_modal.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/users/create.js.erb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/users/edit.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/users/edit_modal.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/users/index.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/users/new.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/users/new_modal.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/users/show.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/app/views/weekly_queue_mailer.html.haml/notify.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config.ru" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/application.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/boot.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/braintree.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/cloudinary.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/database.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/environment.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/environments/development.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/environments/production.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/environments/test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/facebook.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/add_ip_lookup.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/add_reset_pk_sequence_to_ar_base.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/backtrace_silencers.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/carrierwave.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/client_side_validations.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/devise.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/email_validator.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/generators.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/inflections.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/koala.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/merit.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/mime_types.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/omniauth.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/s3_direct_upload.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/s3_file_field.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/secret_token.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/session_store.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/stripe.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/suppress_asset_logging.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/will_paginate_extensions.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/initializers/wrap_parameters.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/locales/devise.en.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/locales/en.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/routes.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/config/s3.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130124191712_create_posts.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130124191755_create_groups.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130124191851_create_users.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130124192104_create_assignments.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130124192709_create_memberships.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130124192953_create_assets.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130126225309_upgrade_clearance_to_diesel.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130127063410_add_email_to_posts.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130127182956_add_cash_to_posts.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130127183844_create_post_categories.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130127183858_create_group_categories.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130127184017_add_price_to_post.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130127185613_add_user_id_to_groups.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130127185928_add.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130127190112_add_group_category_id_to_groups.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130127190426_fix_membership_column.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130127191004_add_imageable_type_to_assets.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130127191216_add_attachment_image_to_assets.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130127192359_fix_tier_column_for_posts.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130127192507_create_tiers.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130129030948_add_customer_id_to_user.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130210153324_create_tags.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130210153409_create_taggings.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130224224112_create_transactions.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130224224719_add_email_to_transactions.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130224231035_add_post_id_to_transactions.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130226202543_add_password_to_users.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130701050029_create_images.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130717234716_add_active_to_post.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130803045230_create_followships.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130804012720_add_private_to_groups.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130808002531_add_latitude_and_longitude_to_groups.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130808013010_add_zipcode_to_groups.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130810040116_create_email_settings.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130810040200_add_email_setting_id_to_memberships.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130819183745_create_daily_queues.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130819185926_create_weekly_queues.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130820012530_add_group_id_and_sender_id_to_daily_queue.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130820014619_add_group_id_and_sender_id_to_weekly_queue.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130820112655_add_password_to_groups.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130903125136_add_admin_to_users.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20130927042542_add_price_to_tier.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20131207001908_add_devise_to_users.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20131209000412_add_post_to_facebook_to_post.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20131209233457_add_facebook_to_users.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20131216214609_create_merit_actions.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20131216214610_create_merit_activity_logs.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20131216214611_create_sashes.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20131216214612_create_badges_sashes.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20131216214613_create_scores_and_points.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20131216215010_add_fields_to_users.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20131217064630_create_messages.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20140119212858_add_completed_to_posts.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/migrate/20140218213145_add_lump_sum_and_hourly_rate_and_other_to_posts.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/schema.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/db/seeds.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/doc/README_FOR_APP" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/lib/assets/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/lib/tasks/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/lib/tasks/add_posts.rake" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/lib/tasks/add_users.rake" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/lib/tasks/burst_of_activity.rake" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/lib/tasks/dedupe_tags.rake" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/lib/tasks/edit_email_settings.rake" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/lib/tasks/edit_groups.rake" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/lib/tasks/edit_tiers.rake" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/lib/tasks/filter_members.rake" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/lib/tasks/live_populate.rake" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/lib/tasks/memberfy.rake" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/lib/tasks/membership_flurry.rake" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/lib/tasks/populate.rake" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/lib/tasks/scheduler.rake" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/public/422.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/public/500.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/public/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/script/rails" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/controllers/email_settings_controller_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/controllers/group_categories_controller_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/controllers/groups_controller_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/controllers/images_controller_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/controllers/messages_controller_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/controllers/posts_controller_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/controllers/tags_controller_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/controllers/transactions_controller_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/controllers/users_controller_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/factories/clearance.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/factories/factories.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/factories/factories_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/features/posts_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/features/sessions_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/features/users_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/helpers/messages_helper_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/mailers/message_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/mailers/new_post_mailer_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/mailers/signup_mailer_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/mailers/sold_post_mailer_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/asset_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/assignment_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/daily_queue_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/email_setting_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/followship_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/group_category_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/group_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/image_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/membership_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/message_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/post_category_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/post_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/tag_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/tagging_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/tier_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/transaction_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/user_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/models/weekly_queue_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/requests/email_settings_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/requests/group_categories_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/requests/groups_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/requests/images_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/requests/messages_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/requests/posts_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/requests/tags_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/requests/transactions_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/requests/users_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/routing/email_settings_routing_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/routing/group_categories_routing_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/routing/groups_routing_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/routing/images_routing_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/routing/messages_routing_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/routing/posts_routing_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/routing/tags_routing_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/routing/transactions_routing_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/routing/users_routing_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/spec_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/support/spec_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/views/messages/edit.html.haml_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/views/messages/index.html.haml_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/views/messages/new.html.haml_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/spec/views/messages/show.html.haml_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/vendor/assets/javascripts/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/vendor/assets/javascripts/jquery.tokeninput.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/vendor/assets/stylesheets/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket-master/vendor/plugins/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/app/views/braintree.html.erb.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/config/braintree.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/README.rdoc" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/Gemfile.lock" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/Gemfile" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/Gemfile" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/lib/tasks/add_posts.rake" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/lib/tasks/add_posts.rake" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/lib/tasks/add_users.rake" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/lib/tasks/add_users.rake" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/app/assets/stylesheets/application.css" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/app/assets/stylesheets/application.css" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/app/views/layouts/application.html.haml" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/app/views/layouts/application.html.haml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/app/views/pages/index.html.haml" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/app/views/pages/index.html.haml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/lib/tasks/live_populate.rake" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/lib/tasks/live_populate.rake" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/lib/tasks/populate.rake" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/lib/tasks/populate.rake" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/app/controllers/posts_controller.rb" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/app/controllers/posts_controller.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/config/routes.rb" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/db/schema.rb" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/db/schema.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/config/initializers/stripe.rb" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/config/initializers/stripe.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/app/models/transaction.rb" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/app/models/transaction.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/app/controllers/transactions_controller.rb" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/app/controllers/transactions_controller.rb" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Desktop/rails_projects/communitymarket/app/models/user.rb" afterPath="$USER_HOME$/Desktop/rails_projects/communitymarket/app/models/user.rb" />
+    </list>
+    <ignored path="gs-rest-service.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="gs-rest-service" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SearchController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hello/SearchController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.12195122" vertical-offset="285" max-vertical-offset="1155">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradlew" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2064" max-vertical-offset="2550">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5" max-vertical-offset="1065">
+              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hello/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="65" max-vertical-offset="615">
+              <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradlew.bat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1440">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/hello/Greeting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hello/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hello/Search.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hello/GreetingController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/hello/SearchController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2" />
+    <option name="y" value="22" />
+    <option name="width" value="1436" />
+    <option name="height" value="818" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gs-rest-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gs-rest-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="initial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gs-rest-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="initial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="configurable.group.language" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="setting&#9;ACTION&#9;TemplateProjectProperties" />
+  </component>
+  <component name="RunManager" selected="Application.Gateway">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Gateway" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="hello.Application" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="gs-rest-service" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Gateway" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33f9224f-37da-40d6-a29a-63b85ffbe53c" name="Default" comment="" />
+      <created>1419290487790</created>
+      <option name="number" value="Default" />
+      <updated>1419290487790</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="22" width="1436" height="818" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28374657" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39944905" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858709" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24318507" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4986226" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.3.6/httpclient-4.3.6.jar!/org/apache/http/client/HttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19522777" vertical-offset="0" max-vertical-offset="555">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.3.6/httpclient-4.3.6.jar!/org/apache/http/impl/client/DefaultHttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5140998" vertical-offset="3" max-vertical-offset="840">
+          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+          <folding>
+            <element signature="e#1794#1795#0" expanded="true" />
+            <element signature="e#1864#1865#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1440">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gs-rest-service.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2550">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="615">
+          <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5" max-vertical-offset="1065">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/com/sun/java/swing/plaf/gtk/GTKEngine.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64761907" vertical-offset="665" max-vertical-offset="1215">
+          <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hello/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12195122" vertical-offset="285" max-vertical-offset="1155">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
