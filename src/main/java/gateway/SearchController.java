@@ -45,20 +45,20 @@ public class SearchController {
     private static final RateLimiter rateLimiter = new RateLimiter();
 
     /**
-     * Constructs a URI based on the search terms, performs authentication, and sends an HTTP request to the Yelp API
+     * Constructs a URI based on the search terms and sends a search request to the Yelp API
      * Search results are cached to improve performance.
      *
      * @param location search location
      * @param term search term
      * @return json string response from the Yelp API
-     * @throws IOException
      */
     @Cacheable("searchResultsCache")
     @RequestMapping("/search")
     public String search(@RequestParam(value="location", defaultValue=DEFAULT_LOCATION) String location,
-                         @RequestParam(value="term", defaultValue=DEFAULT_TERM) String term) throws IOException {
+                         @RequestParam(value="term", defaultValue=DEFAULT_TERM) String term) {
+        String response = "";
         if (rateLimiter.limitExceeded()) {
-            return "rate limit exceeded";
+            response = "rate limit exceeded";
         } else {
             URI uri = null;
             try {
@@ -69,30 +69,43 @@ public class SearchController {
                         .setParameter("term", term)
                         .setParameter("location", location)
                         .build();
+                response = getResponseContentFromURI(uri);
             } catch (URISyntaxException e) {
                 e.printStackTrace();
-            }
-
-            // perform authentication using Yelp credentials
-            OAuthConsumer consumer = new CommonsHttpOAuthConsumer(CONSUMER_KEY, CONSUMER_SECRET);
-            consumer.setTokenWithSecret(TOKEN, TOKEN_SECRET);
-            HttpGet request = new HttpGet(uri);
-            try {
-                consumer.sign(request);
-            } catch (OAuthMessageSignerException e) {
-                e.printStackTrace();
-            } catch (OAuthExpectationFailedException e) {
-                e.printStackTrace();
-            } catch (OAuthCommunicationException e) {
+            } catch (IOException e) {
                 e.printStackTrace();
             }
-
-            // get the response json
-            HttpClient client = HttpClientBuilder.create().build();
-            HttpResponse response = client.execute(request);
-            BufferedReader reader = new BufferedReader(new InputStreamReader(response.getEntity().getContent(), "UTF-8"));
-            String json = reader.readLine();
-            return json;
         }
+        return response;
+    }
+
+    /**
+     * Creates and authenticates a request for an API resource
+     *
+     * @param uri API endpoint
+     * @return json string response from the Yelp API
+     * @throws IOException
+     */
+    private String getResponseContentFromURI(URI uri) throws IOException {
+        // perform authentication using Yelp credentials
+        OAuthConsumer consumer = new CommonsHttpOAuthConsumer(CONSUMER_KEY, CONSUMER_SECRET);
+        consumer.setTokenWithSecret(TOKEN, TOKEN_SECRET);
+        HttpGet request = new HttpGet(uri);
+        try {
+            consumer.sign(request);
+        } catch (OAuthMessageSignerException e) {
+            e.printStackTrace();
+        } catch (OAuthExpectationFailedException e) {
+            e.printStackTrace();
+        } catch (OAuthCommunicationException e) {
+            e.printStackTrace();
+        }
+
+        // get the response json
+        HttpClient client = HttpClientBuilder.create().build();
+        HttpResponse response = client.execute(request);
+        BufferedReader reader = new BufferedReader(new InputStreamReader(response.getEntity().getContent(), "UTF-8"));
+        String json = reader.readLine();
+        return json;
     }
 }
