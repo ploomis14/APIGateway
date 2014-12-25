@@ -9,7 +9,7 @@ package gateway;
 
 public class RateLimiter {
 
-    private static final double RATE=1.0; // number of requests
+    private static final double RATE=5.0; // number of requests
     private static final double PERIOD=2.0; // a max of RATE requests can be carried out in this amount of time (seconds)
     private double allowance; // used to determine when the rate limit has been exceeded
     private double last_check; // time at which the last request was processed
@@ -36,9 +36,9 @@ public class RateLimiter {
             allowance = RATE;
         }
         if (allowance < 1.0) { // the rate limit has been exceeded
-            return false;
+            return true;
         }
         allowance -= 1.0;
-        return true;
+        return false;
     }
 }

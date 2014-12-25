@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.URI;
 import java.net.URISyntaxException;
+import java.util.ArrayList;
 import oauth.signpost.OAuthConsumer;
 import oauth.signpost.commonshttp.CommonsHttpOAuthConsumer;
 import oauth.signpost.exception.OAuthCommunicationException;
@@ -22,7 +23,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * Establishes a gateway for the Yelp Search API
- *
  * @author Peter Loomis
  */
 
@@ -32,7 +32,7 @@ public class SearchController {
     private static final String API_HOST = "api.yelp.com";
     private static final String DEFAULT_TERM = "food";
     private static final String DEFAULT_LOCATION = "Santa Barbara, CA";
-    private static final String PATH = "/v2/search";
+    private static final String SEARCH_PATH = "/v2/search";
     /*
      * Update OAuth credentials below from the Yelp Developers API site:
      * http://www.yelp.com/developers/getting_started/api_access
@@ -43,16 +43,15 @@ public class SearchController {
     private static final String TOKEN_SECRET = "r1-5h1iPdhBhuD12shLJZf1LAY8";
 
     private static final RateLimiter rateLimiter = new RateLimiter();
+    private static final CallLog termLog = new CallLog();
+    private static final CallLog locationLog = new CallLog();
 
     /**
-     * Constructs a URI based on the search terms and sends a search request to the Yelp API
-     * Search results are cached to improve performance.
-     *
-     * @param location search location
-     * @param term search term
-     * @return json string response from the Yelp API
+     * Searches for businesses by location and keyword
+     * @param location
+     * @param term // keyword
+     * @return json response
      */
-    @Cacheable("searchResultsCache")
     @RequestMapping("/search")
     public String search(@RequestParam(value="location", defaultValue=DEFAULT_LOCATION) String location,
                          @RequestParam(value="term", defaultValue=DEFAULT_TERM) String term) {
@@ -60,33 +59,53 @@ public class SearchController {
         if (rateLimiter.limitExceeded()) {
             response = "rate limit exceeded";
         } else {
-            URI uri = null;
             try {
-                uri = new URIBuilder()
-                        .setScheme("http")
-                        .setHost(API_HOST)
-                        .setPath(PATH)
-                        .setParameter("term", term)
-                        .setParameter("location", location)
-                        .build();
-                response = getResponseContentFromURI(uri);
-            } catch (URISyntaxException e) {
-                e.printStackTrace();
+                response = getResponseContent(location, term);
             } catch (IOException e) {
                 e.printStackTrace();
+            } catch (URISyntaxException e) {
+                e.printStackTrace();
             }
+            termLog.visit(term);
+            locationLog.visit(location);
         }
         return response;
     }
 
     /**
-     * Creates and authenticates a request for an API resource
+     * Retrieves analytics from the call log system
+     * @return json containing the most common search term, the most common location, and the number of times a search
+     * was performed with each parameter
+     */
+    @RequestMapping("/analytics")
+    public ArrayList<Endpoint> analytics() {
+        ArrayList<Endpoint> endpointList = new ArrayList<Endpoint>();
+        endpointList.add(termLog.getMostVisited());
+        endpointList.add(locationLog.getMostVisited());
+        return endpointList;
+    }
+
+    /**
+     * Constructs a URI based on search terms. Creates and authenticates a request for an API resource.
+     * Search results are cached to improve performance.
      *
-     * @param uri API endpoint
+     * @param location search location
+     * @param term search term
      * @return json string response from the Yelp API
      * @throws IOException
+     * @throws java.net.URISyntaxException
      */
-    private String getResponseContentFromURI(URI uri) throws IOException {
+    @Cacheable("searchResultsCache")
+    private String getResponseContent(String location, String term) throws IOException, URISyntaxException {
+
+        URI uri = new URIBuilder()
+                .setScheme("http")
+                .setHost(API_HOST)
+                .setPath(SEARCH_PATH)
+                .setParameter("term", term)
+                .setParameter("location", location)
+                .build();
+
         // perform authentication using Yelp credentials
         OAuthConsumer consumer = new CommonsHttpOAuthConsumer(CONSUMER_KEY, CONSUMER_SECRET);
         consumer.setTokenWithSecret(TOKEN, TOKEN_SECRET);
