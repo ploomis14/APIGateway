@@ -2,5 +2,5 @@ Manifest-Version: 1.0
 Build-Jdk: 1.6.0_65
 Built-By: temp
 Created-By: IntelliJ IDEA
-Main-Class: hello.Application
+Main-Class: gateway.Application
 
