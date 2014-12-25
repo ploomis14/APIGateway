@@ -1,0 +1,6 @@
+*.iml
+*.iws
+*.cfg
+*.txt
+log/
+target/
