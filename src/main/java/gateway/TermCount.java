@@ -1,23 +1,22 @@
 package gateway;
 
-import java.net.URI;
-
 /**
+ * This class stores a search query and the number of times it was searched for
  * @author Peter Loomis
  */
 
-public class Endpoint implements Comparable<Endpoint> {
+public class TermCount implements Comparable<TermCount> {
 
     private String term;
     private int timesSearchedFor;
 
-    public Endpoint(String term) {
+    public TermCount(String term) {
         this.term = term;
         timesSearchedFor = 1;
     }
 
-    public int compareTo(Endpoint endpoint) {
-        if (this.timesSearchedFor > endpoint.timesSearchedFor) {
+    public int compareTo(TermCount termCount) {
+        if (this.timesSearchedFor > termCount.timesSearchedFor) {
             return 1;
         }
         return 0;

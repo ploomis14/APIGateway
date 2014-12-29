@@ -16,7 +16,6 @@ import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.utils.URIBuilder;
 import org.apache.http.impl.client.HttpClientBuilder;
-import org.springframework.cache.annotation.Cacheable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -48,7 +47,7 @@ public class SearchController {
 
     /**
      * Searches for businesses by location and keyword
-     * @param location
+     * @param location // the area in which to search
      * @param term // keyword
      * @return json response
      */
@@ -78,26 +77,27 @@ public class SearchController {
      * was performed with each parameter
      */
     @RequestMapping("/analytics")
-    public ArrayList<Endpoint> analytics() {
-        ArrayList<Endpoint> endpointList = new ArrayList<Endpoint>();
-        endpointList.add(termLog.getMostVisited());
-        endpointList.add(locationLog.getMostVisited());
-        return endpointList;
+    public ArrayList<TermCount> analytics() {
+        ArrayList<TermCount> termCountList = new ArrayList<TermCount>();
+        TermCount termCount;
+        if ((termCount = termLog.getMostVisited()) != null) {
+            termCountList.add(termCount);
+        }
+        if ((termCount = locationLog.getMostVisited()) != null) {
+            termCountList.add(termCount);
+        }
+        return termCountList;
     }
 
     /**
      * Constructs a URI based on search terms. Creates and authenticates a request for an API resource.
-     * Search results are cached to improve performance.
-     *
      * @param location search location
      * @param term search term
      * @return json string response from the Yelp API
      * @throws IOException
      * @throws java.net.URISyntaxException
      */
-    @Cacheable("searchResultsCache")
     private String getResponseContent(String location, String term) throws IOException, URISyntaxException {
-
         URI uri = new URIBuilder()
                 .setScheme("http")
                 .setHost(API_HOST)

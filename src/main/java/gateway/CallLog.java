@@ -1,50 +1,52 @@
 package gateway;
 
-import java.net.URI;
-import java.util.ArrayList;
+import com.google.common.cache.Cache;
+import com.google.common.cache.CacheBuilder;
 
 /**
- * Storage system to keep track of which term is searched for most often. A binary heap is used to store visited
- * endpoints so that the endpoint with the most visits can be quickly retrieved.
+ * Storage system to keep track of which term is searched for most often. A guava cache is used to keep track of queries
+ * and the number of times each was searched for.
  *
  * @author Peter Loomis
  */
 
 public class CallLog {
 
-    private BinaryHeap<Endpoint> heap;
+    private static final long MAX_SIZE=1000; // maximum number of objects that can be stored
+
+    private Cache<String,TermCount> cache;
 
     public CallLog() {
-        heap = new BinaryHeap<Endpoint>();
+        cache = CacheBuilder.newBuilder()
+                .maximumSize(MAX_SIZE) // entries that aren't used often are evicted
+                .build();
     }
 
     /**
-     * Iterates through visited endpoints in the heap array until an endpoint with a matching search term is found. The visited
-     * count of this endpoint is then incremented. If no matching term is found, then a new endpoint is created with the
-     * uri parameter and inserted into the heap.
-     *
-     * @param searchTerm // visit the endpoint with this term
+     * If the searchTerm has already been searched for, its count is incremented, otherwise a new TermCount object is
+     * created
+     * @param searchTerm the query string
      */
     public void visit(String searchTerm) {
-        boolean visited = false;
-        ArrayList<Endpoint> items = heap.getItems();
-        int index = 0;
-        for (Endpoint n : items) {
-            if (n.getTerm().equals(searchTerm)) {
-                n.visit();
-                heap.shiftUp(index);
-                visited = true;
-                break;
-            }
-            index++;
-        }
-        if (visited == false) { // search term isn't contained in any endpoint in the heap
-            Endpoint endpoint = new Endpoint(searchTerm);
-            heap.insert(endpoint);
+        TermCount termCount = cache.getIfPresent(searchTerm);
+        if (termCount == null) {
+            cache.put(searchTerm,new TermCount(searchTerm));
+        } else {
+            termCount.visit();
         }
     }
 
-    public Endpoint getMostVisited() {
-        return heap.getRoot();
+    /**
+     * Iterates through the entries in the cache and finds the TermCount object with the highest count
+     * @return TermCount object containing the highest count and the most searched for term
+     */
+    public TermCount getMostVisited() {
+        TermCount highestCount = null;
+        for (TermCount count : cache.asMap().values()) {
+            if (highestCount == null || count.getTimesSearchedFor() > highestCount.getTimesSearchedFor()) {
+                highestCount = count;
+            }
+        }
+        return highestCount;
     }
 }

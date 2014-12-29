@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.springframework</groupId>
-    <artifactId>gs-rest-service</artifactId>
+    <artifactId>yelp-api-gateway</artifactId>
     <version>0.1.0</version>
 
     <parent>
@@ -15,8 +15,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-gemfire</artifactId>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>18.0</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
