@@ -1,4 +1,4 @@
-Yelp API Gateway
+API proxy
 ================
 Introduction
 ------------
